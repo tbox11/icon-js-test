@@ -27,6 +27,9 @@ $(document).ready(function() {
 				$('.dl-bar').css('opacity', '0');
 			}
 
+			// FOR DOWNLOAD
+			// - set DL link back to #
+
 		// If Icon has NOT been clicked, then:
 		} else {
 
@@ -45,7 +48,7 @@ $(document).ready(function() {
 
 			// FOR DOWNLOAD
 			// - Get the src of the icon
-			// - and set th href of the DL link to it
+			// - and set the href of the DL link to it
 
 		}	
 
